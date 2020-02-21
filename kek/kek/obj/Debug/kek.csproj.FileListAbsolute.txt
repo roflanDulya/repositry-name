@@ -1,0 +1,9 @@
+C:\Users\123\source\repos\kek\kek\bin\Debug\kek.exe.config
+C:\Users\123\source\repos\kek\kek\bin\Debug\kek.exe
+C:\Users\123\source\repos\kek\kek\bin\Debug\kek.pdb
+C:\Users\123\source\repos\kek\kek\obj\Debug\kek.csprojAssemblyReference.cache
+C:\Users\123\source\repos\kek\kek\obj\Debug\kek.Form1.resources
+C:\Users\123\source\repos\kek\kek\obj\Debug\kek.Properties.Resources.resources
+C:\Users\123\source\repos\kek\kek\obj\Debug\kek.csproj.GenerateResource.cache
+C:\Users\123\source\repos\kek\kek\obj\Debug\kek.exe
+C:\Users\123\source\repos\kek\kek\obj\Debug\kek.pdb
