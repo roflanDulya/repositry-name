@@ -1,0 +1,13 @@
+C:\Users\123\source\repos\ftp\ftp\obj\Debug\ftp.csprojAssemblyReference.cache
+C:\Users\123\source\repos\ftp\ftp\obj\Debug\ftp.Form1.resources
+C:\Users\123\source\repos\ftp\ftp\obj\Debug\ftp.Properties.Resources.resources
+C:\Users\123\source\repos\ftp\ftp\obj\Debug\ftp.csproj.GenerateResource.cache
+C:\Users\123\source\repos\ftp\ftp\bin\Debug\ftp.exe.config
+C:\Users\123\source\repos\ftp\ftp\bin\Debug\ftp.exe
+C:\Users\123\source\repos\ftp\ftp\bin\Debug\ftp.pdb
+C:\Users\123\source\repos\ftp\ftp\bin\Debug\MetroFramework.Design.dll
+C:\Users\123\source\repos\ftp\ftp\bin\Debug\MetroFramework.dll
+C:\Users\123\source\repos\ftp\ftp\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\123\source\repos\ftp\ftp\obj\Debug\ftp.csproj.CopyComplete
+C:\Users\123\source\repos\ftp\ftp\obj\Debug\ftp.exe
+C:\Users\123\source\repos\ftp\ftp\obj\Debug\ftp.pdb
