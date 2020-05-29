@@ -1,0 +1,13 @@
+C:\Users\123\source\repos\datagridview\datagridview\obj\Debug\datagridview.csprojAssemblyReference.cache
+C:\Users\123\source\repos\datagridview\datagridview\obj\Debug\datagridview.Form1.resources
+C:\Users\123\source\repos\datagridview\datagridview\obj\Debug\datagridview.Properties.Resources.resources
+C:\Users\123\source\repos\datagridview\datagridview\obj\Debug\datagridview.csproj.GenerateResource.cache
+C:\Users\123\source\repos\datagridview\datagridview\bin\Debug\database.mdb
+C:\Users\123\source\repos\datagridview\datagridview\bin\Debug\datagridview.exe.config
+C:\Users\123\source\repos\datagridview\datagridview\bin\Debug\datagridview.exe
+C:\Users\123\source\repos\datagridview\datagridview\bin\Debug\datagridview.pdb
+C:\Users\123\source\repos\datagridview\datagridview\bin\Debug\MetroFramework.dll
+C:\Users\123\source\repos\datagridview\datagridview\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\123\source\repos\datagridview\datagridview\obj\Debug\datagridview.csproj.CopyComplete
+C:\Users\123\source\repos\datagridview\datagridview\obj\Debug\datagridview.exe
+C:\Users\123\source\repos\datagridview\datagridview\obj\Debug\datagridview.pdb
